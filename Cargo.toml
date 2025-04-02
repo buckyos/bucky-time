@@ -3,8 +3,8 @@ name = "bucky-time"
 version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/buckyos/bucky-time.git"
-license-file = "LISCENSE"
-description = ""
+license-file = "LICENSE"
+description = "the bucky-time crate"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
